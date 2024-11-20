@@ -20,7 +20,7 @@ No App InShot apenas cortei para que o vídeo ficasse do tamanho desejado.
 
 🚀 Resultados
 
-
+https://github.com/LuanaFalcao/O-poder-da-IA-na-preserva-o-do-meio-ambiente-/blob/main/O%20poder%20da%20IA%20na%20preservacao%20do%20meio%20ambiente.mp4
 
 💭 Reflexão
 
