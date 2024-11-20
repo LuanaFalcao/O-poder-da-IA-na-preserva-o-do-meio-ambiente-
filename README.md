@@ -19,7 +19,8 @@ Utilizei o Speechgen para converter o resumo em áudio. E por fim coloquei o ava
 No App InShot apenas cortei para que o vídeo ficasse do tamanho desejado.
 
 🚀 Resultados
-Apresente os resultados do seu projeto
+
+
 
 💭 Reflexão
 
